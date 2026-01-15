@@ -88,7 +88,7 @@ lib/
 2. Clone the repository:
 
    ```bash
-   git clone https://Siddiqui145/ai_app_frontend.git
+   git clone https://github.com/Siddiqui145/ai_app_frontend
    ```
 
 3. Get dependencies:
